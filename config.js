@@ -4,15 +4,15 @@ global.tum = fs.readFileSync('./src/Ah5.jpeg')
 global.tum2 = fs.readFileSync('./src/emror.jpeg')
 global.thumb = fs.readFileSync('./src/thumb.jpeg')
 global.thumb2 = fs.readFileSync('./src/emror.jpeg')
-global.owner = ['6289681378568', '6283820073017', '6283801499848','85290882526','6285240750713','6288286421519','212706611366'] // Put your number here
-global.mods = ['6285693120588'] // Want some help?
-global.prems = ['6287842147162','6285893120588','6285656615441'] // Premium user has unlimited limit
+global.owner = ['6288262231046', '6281370338803'] // Put your number here
+global.mods = ['6288262231046'] // Want some help?
+global.prems = ['6288262231046', '6281370338803'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
+  zeks: 'https://api.zeks.me',
   pencarikode: 'https://pencarikode.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com', 
   Dehan: 'https://dhnjing.xyz',
@@ -23,7 +23,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'AbilGanss',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'Nyarlathotep',
+  'https://api.zeks.me': 'Nyarlathotep',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://dhnjing.xyz': 'e2645065aaced89861b4',
