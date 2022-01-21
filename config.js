@@ -1,12 +1,12 @@
 let fs = require('fs')
 let fetch = require('node-fetch')
-global.tum = fs.readFileSync('./src/Ah5.jpeg')
-global.tum2 = fs.readFileSync('./src/emror.jpeg')
+global.tum = fs.readFileSync('./src/hadeh.jpeg')
+global.tum2 = fs.readFileSync('./src/error.jpeg')
 global.thumb = fs.readFileSync('./src/thumb.jpeg')
-global.thumb2 = fs.readFileSync('./src/emror.jpeg')
-global.owner = ['6288262231046', '6281370338803'] // Put your number here
-global.mods = ['6288262231046'] // Want some help?
-global.prems = ['6288262231046', '6281370338803'] // Premium user has unlimited limit
+global.thumb2 = fs.readFileSync('./src/error.jpeg')
+global.owner = ['6288262231046','6281370338803'] // Put your number here
+global.mods = ['6288262231046','6281370338803'] // Want some help?
+global.prems = ['6288262231046','6281370338803'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -33,7 +33,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'I hope you\'re fine'
-global.author = 'LitRHap'
+global.author = 'Amirul404'
 global.multiplier = 69 // The higher, The harder levelup
 
 let chalk = require('chalk')
