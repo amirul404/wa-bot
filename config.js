@@ -1,9 +1,9 @@
 let fs = require('fs')
 let fetch = require('node-fetch')
-global.tum = fs.readFileSync('./src/hadeh.jpeg')
-global.tum2 = fs.readFileSync('./src/error.jpeg')
-global.thumb = fs.readFileSync('./src/thumb.jpeg')
-global.thumb2 = fs.readFileSync('./src/error.jpeg')
+global.tum = fs.readFileSync('./src/hadeh.jpg')
+global.tum2 = fs.readFileSync('./src/error.jpg')
+global.thumb = fs.readFileSync('./src/thumb.jpg')
+global.thumb2 = fs.readFileSync('./src/error.jpg')
 global.owner = ['6288262231046','6281370338803'] // Put your number here
 global.mods = ['6288262231046','6281370338803'] // Want some help?
 global.prems = ['6288262231046','6281370338803'] // Premium user has unlimited limit
