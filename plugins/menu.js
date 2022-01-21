@@ -46,12 +46,10 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Script :
-│ https://github.com/LitRHap/wabot
+│ Facebook :
+│ https://www.facebook.com/amirul404
 │ Instagram :
-│ https://instagram.com/alif._.t
-│ Server :
-│ https://uptimerobot.com
+│ https://instagram.com/fvckmir
 ╰────
 %readmore`.trimStart(),
   header: '┏┉┄┈┈┈『%category』┈┈┈┈┈┉┓',
