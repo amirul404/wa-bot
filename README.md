@@ -2,9 +2,9 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LitRHap/wabot)
-# Join kalo eror/ga paham
-* [`Join sini`](https://chat.whatsapp.com/I4S4QfCet92GueJV5Uq3jT) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amirul404/wa-bot)
+# Chat kalo error / ga paham
+* [`Chat Saya`](https://wa.link/93jah1) 
 ## FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
@@ -13,7 +13,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/LitRHap/wabot
+git clone https://github.com/amirul404/wa-bot
 cd wabot
 bash install.sh
 npm install
